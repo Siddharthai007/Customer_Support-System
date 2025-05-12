@@ -6,6 +6,7 @@ langchain_core
 pandas
 
 -e .
+langchain_google_genai
 
 
 
