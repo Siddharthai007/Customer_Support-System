@@ -31,14 +31,23 @@ It is built to help developers prototype **customer-support chatbots**, **FAQ as
 ## 📂 Project Structure
 
 ├── main.py # FastAPI entry point
+
 ├── data/ # Raw / processed datasets
+
 ├── data_ingestion/ # Scripts for ingestion & preprocessing
+
 ├── retriever/ # Retrieval engine / vector search logic
+
 ├── prompt_library/ # Predefined prompts for LLM workflows
+
 ├── templates/ # HTML templates for UI
+
 ├── static/ # CSS, JS, and static assets
+
 ├── test.py # Testing script
+
 ├── requirements.txt
+
 └── setup.py
 
 
@@ -68,7 +77,7 @@ HTML templates & assets included for quick demo usage.
 
 ✔️ Modular & Extendable
 
-## Easily integrate vector DBs, LLM APIs, or custom pipelines.
+Easily integrate vector DBs, LLM APIs, or custom pipelines.
 ## 💡 Future Improvements
 
 Vector DB integration (FAISS, ChromaDB, Weaviate)
