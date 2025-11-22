@@ -44,7 +44,8 @@ It is built to help developers prototype **customer-support chatbots**, **FAQ as
 
 High-performance asynchronous API server for handling requests and serving templates.
 
-##🧩 Features
+## 🧩 Features
+
 ✔️ FastAPI Backend
 
 High-performance asynchronous API server for handling requests and serving templates.
