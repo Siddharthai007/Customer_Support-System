@@ -40,6 +40,9 @@ It is built to help developers prototype **customer-support chatbots**, **FAQ as
 ├── test.py # Testing script
 ├── requirements.txt
 └── setup.py
+
+
+High-performance asynchronous API server for handling requests and serving templates.
 🧩 Features
 ✔️ FastAPI Backend
 
