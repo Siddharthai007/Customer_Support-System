@@ -69,7 +69,7 @@ HTML templates & assets included for quick demo usage.
 ✔️ Modular & Extendable
 
 ## Easily integrate vector DBs, LLM APIs, or custom pipelines.
-💡 Future Improvements
+## 💡 Future Improvements
 
 Vector DB integration (FAISS, ChromaDB, Weaviate)
 
