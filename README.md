@@ -43,7 +43,8 @@ It is built to help developers prototype **customer-support chatbots**, **FAQ as
 
 
 High-performance asynchronous API server for handling requests and serving templates.
-🧩 Features
+
+##🧩 Features
 ✔️ FastAPI Backend
 
 High-performance asynchronous API server for handling requests and serving templates.
@@ -66,7 +67,7 @@ HTML templates & assets included for quick demo usage.
 
 ✔️ Modular & Extendable
 
-Easily integrate vector DBs, LLM APIs, or custom pipelines.
+## Easily integrate vector DBs, LLM APIs, or custom pipelines.
 💡 Future Improvements
 
 Vector DB integration (FAISS, ChromaDB, Weaviate)
